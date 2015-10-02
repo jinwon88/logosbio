@@ -36,7 +36,7 @@
         <LinkScript Name="../../startup/adstar_ram.ld" />
         <NoCompile Name="output/drawobject.elf.dis" />
         <Library Name="../../lib/libadStar.a" />
-        <LastOpenFile Name="main.c" Line="32" />
+        <LastOpenFile Name="main.c" Line="1" />
     </Files>
     <Event cmd="" desc="" enable="true" />
     <Debug>
