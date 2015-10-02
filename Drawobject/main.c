@@ -29,8 +29,7 @@ int main()
 	{
 		draw_rect(0+i,0+i,800-(i*2),480-(i*2),MAKE_COLORREF(0,255,0));
 	}
-	
-	//draw_rectfill(500,200,100,100,MAKE_COLORREF(100,100,100));
+	draw_rectfill(500,200,100,100,MAKE_COLORREF(100,100,100));
 	
 	draw_circle(400,240,50,MAKE_COLORREF(0,0,255));
 	
